@@ -1,4 +1,9 @@
 ### CHANGE LOG:
+**v2.3.7:**
+- Update version
+- Added TeamLearning skin
+- Removed unnecessary files
+
 **v2.3.6:**
 - Update version
 - Use markdown in the changelog file
